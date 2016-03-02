@@ -2,7 +2,7 @@
   "name": "metalsmith-azure-storage",
   "version": "0.0.1",
   "description": "pushing projects built with metalsmith to azure storge",
-  "main": "index.js",
+  "main": "lib/metalsmith-azure-storage.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
