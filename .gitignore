@@ -1,4 +1,5 @@
 .*
 !.gitignore
 !.travis.yml
+!.eslintrc.js
 node_modules
