@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-azure-storage",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "pushing projects built with metalsmith to azure storge",
   "main": "lib/metalsmith-azure-storage.js",
   "scripts": {
