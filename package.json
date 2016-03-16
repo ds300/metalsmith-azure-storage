@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-azure-storage",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "pushing projects built with metalsmith to azure storge",
   "main": "lib/metalsmith-azure-storage.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ds300/metalsmith-azure-storage.git"
+    "url": "git+https://github.com/futurice/metalsmith-azure-storage.git"
   },
   "author": "ds300",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ds300/metalsmith-azure-storage/issues"
+    "url": "https://github.com/futurice/metalsmith-azure-storage/issues"
   },
-  "homepage": "https://github.com/ds300/metalsmith-azure-storage#readme",
+  "homepage": "https://github.com/futurice/metalsmith-azure-storage#readme",
   "dependencies": {
     "azure-storage": "^0.8.0",
     "mime": "^1.3.4",
