@@ -19,4 +19,4 @@ metalsmith.use(azure({
 
 ## License
 
-[MIT](./license.md)
+[MIT](./LICENSE)
